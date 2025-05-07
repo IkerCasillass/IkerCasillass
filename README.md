@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm Iker Casillas
+---
 
-<!--
-**IkerCasillass/IkerCasillass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📢 About me
 
-Here are some ideas to get you started:
+- 💻 Currently in my 6th semester of Computer Science.
+- 🤖 Passionate about robotics and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IkerCasillass&show_icons=true&theme=dracula" alt="Iker's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkerCasillass&layout=compact&theme=dracula" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+## Contact me
+
+- 🔗 [LinkedIn](linkedin.com/in/ikercasillass)
+- 📧 Email: ikercasillasp2@gmail.com 
+---
+
